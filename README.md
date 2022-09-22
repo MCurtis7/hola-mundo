@@ -1,5 +1,5 @@
 # hola-mundo
-mi primer repositorio de prueba.
+mi primer repositorio.
 
 autor: mcurtis
 fecha: 22/09/2022
